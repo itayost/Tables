@@ -41,4 +41,5 @@
     <string name="loading">Loading</string>
     <string name="your_reservations">Your reservations</string>
     <string name="log_out">Log out</string>
+    <string name="enter_your_details">Enter your details</string>
 </resources>
