@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#C48888</color>
+    <color name="colorPrimaryDark">#B26E6E</color>
+    <color name="colorSecondary">#FFD1C1</color>
+    <color name="colorNeutral">#F6F6F6</color>
+    <color name="colorAccent">#9ACD32</color>
+    <color name="textColorDark">#333333</color>
+    <color name="textColorLight">#FFFFFF</color>
+    <color name="linkColor">#0000FF</color>
+    <color name="bottom_nav_item_color">@color/colorSecondary</color>
+</resources>
