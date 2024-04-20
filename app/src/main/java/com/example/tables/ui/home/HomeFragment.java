@@ -61,9 +61,6 @@ public class HomeFragment extends Fragment implements MyReservationRecyclerViewA
                     fetchCustomerReservations(userId);
                 } else if (userType.equals("RestaurantUser")) {
                     fetchRestaurantReservations(userId);
-                } else {
-                    // Handle the case when the user type is unknown
-                    //showErrorMessage("Unknown user type");
                 }
             }
         });
